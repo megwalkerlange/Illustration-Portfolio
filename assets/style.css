@@ -1,0 +1,49 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.info-section {
+    display: flex;
+    padding:20px;
+    margin: 20px;
+    border:5px;
+    
+    }
+
+.title {
+    font-family: 'Life Savers', cursive;
+}
+
+.container-fluid {
+
+    background-color: white !important;
+}
+
+p{
+
+    padding:50px;
+    margin:20px;
+    font-size: 26pt;
+
+}
+
+.about {
+
+    padding: 30px;
+    margin: 30px;
+}
+
+
+
+footer {
+    margin-top: auto;
+    height: 60px;
+    font-size: 18px;
+    text-align: center;
+   
+  };
