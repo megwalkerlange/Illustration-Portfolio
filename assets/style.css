@@ -24,7 +24,7 @@ html, body {
     background-color: white !important;
 }
 
-p{
+.info-text{
 
     padding:50px;
     margin:20px;
@@ -38,6 +38,37 @@ p{
     margin: 30px;
 }
 
+.books {
+    display: flex;
+    justify-content: center;
+}
+
+.book-card {
+
+    padding: 20px;
+    margin:10px;
+    gap: 2rem;
+
+   
+}
+
+.gallery {
+
+    display: grid;
+     gap: 3rem;
+}
+
+#line-1 {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+#line-2 {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
 
 
 footer {
